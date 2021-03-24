@@ -1,6 +1,6 @@
 section {
 	width: 800px;
-	margin: 100px auto;
+	margin: 50px auto;
 }
 section h1,
 section p {
@@ -13,4 +13,13 @@ section h1 {
 }
 section p {
 	font: 16px 'Open Sans';
+}
+
+section img {
+	padding: 30px 0 0 200px;
+	width: 50%;
+}
+
+section i, span {
+	color: red;
 }
